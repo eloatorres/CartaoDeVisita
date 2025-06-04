@@ -1,4 +1,4 @@
-# Cartão de Visita Digital 📇
+# Cartão de Visita Digital 
 
 Projeto desenvolvido para a N2 da disciplina de Programação Mobile.
 
@@ -6,7 +6,7 @@ A aplicação permite que o usuário se cadastre com nome, senha e imagem, reali
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 ### 📱 Mobile (React Native com Expo)
 - React Native
@@ -24,7 +24,7 @@ A aplicação permite que o usuário se cadastre com nome, senha e imagem, reali
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 N2_Mobile/
@@ -44,7 +44,7 @@ N2_Mobile/
 
 ---
 
-## ▶️ Como executar
+##  Como executar
 
 ### 1. Inicie o backend (Node.js)
 
@@ -65,7 +65,7 @@ npx expo start
 
 ---
 
-## ✅ Funcionalidades
+## Funcionalidades
 
 - Cadastro com nome, senha e imagem
 - Upload de imagem com Multer
@@ -74,7 +74,7 @@ npx expo start
 
 ---
 
-## 🛑 .gitignore recomendado
+## .gitignore recomendado
 
 ```
 node_modules/
